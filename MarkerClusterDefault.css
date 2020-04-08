@@ -13,10 +13,10 @@
 	}
 
 .marker-cluster-large {
-	background-color: rgba(245, 60, 55, 0.67);
+	background-color: rgb(102, 102, 255, 0.7);
 	}
 .marker-cluster-large div {
-	background-color: rgba(245, 60, 55, 0.67);
+	background-color: rgb(102, 102, 255, 0.7);
 	}
 
 	/* IE 6-8 fallback colors */
